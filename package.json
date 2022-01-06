@@ -1,0 +1,14 @@
+{
+  "name": "fursquad-bot",
+  "version": "1.0.0",
+  "description": "Deze bot wordt gebruikt voor clan discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clan,fursquad",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
+}
